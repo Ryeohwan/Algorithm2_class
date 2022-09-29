@@ -1,3 +1,4 @@
+package pair11_ahnryeohwan_leeyeeun;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
