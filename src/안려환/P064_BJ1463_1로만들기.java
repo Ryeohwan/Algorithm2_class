@@ -29,6 +29,5 @@ public class P064_BJ1463_1로만들기 {
 		}
 		
 		return d[n];
-		
 	}
 }

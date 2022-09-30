@@ -1,8 +1,8 @@
-package BaekJoon;
+package 안려환;
 
 import java.util.Scanner;
 
-public class BJ_1149_RGB거리 {
+public class P065_BJ1149_RGB거리 {
 
 	/**
 	 * 점화식을 생각하기 전에 해야할 것 
