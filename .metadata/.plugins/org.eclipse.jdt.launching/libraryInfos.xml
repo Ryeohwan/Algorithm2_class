@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
+<libraryInfo home="C:\0_SSAFY\1_tool\0_jdk\8version" version="1.8.0_192">
+<bootpath>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\resources.jar"/>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\rt.jar"/>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\sunrsasign.jar"/>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\jsse.jar"/>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\jce.jar"/>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\charsets.jar"/>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\jfr.jar"/>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\0_SSAFY\1_tool\0_jdk\8version\jre" version="1.8.0_192">
+<bootpath>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\resources.jar"/>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\rt.jar"/>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\sunrsasign.jar"/>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\jsse.jar"/>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\jce.jar"/>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\charsets.jar"/>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\jfr.jar"/>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\0_SSAFY\1_tool\0_jdk\8version\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
 <libraryInfo home="C:\0_SSAFY\1_tool\0_jdk" version="1.8.0_192">
 <bootpath>
 <entry path="C:\0_SSAFY\1_tool\0_jdk\jre\lib\resources.jar"/>
