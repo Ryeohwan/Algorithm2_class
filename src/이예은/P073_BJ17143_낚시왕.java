@@ -61,7 +61,7 @@ public class P073_BJ17143_낚시왕 {
 		
 		for(int c = 1; c <= C; c++) {
 			
-			if(sharks == 0) break;
+			if(sharks == 0) break; // 남은 상어가 없다면 바로 반복문을 끝낸다.
 			
 			// STEP 1: 상어 잡기
 			for(int r = 1; r <= R; r++) {
