@@ -28,7 +28,7 @@ public class P081_SWEA5643_키순서 {
 			for(int next_node : list.get(node)) {
 				if(!visited[next_node]) {
 		 
-					visited[next_node] = true;
+					visited[next_node] = true; 
 					queue.add(next_node);
 					count[next_node]++; // 현재 노드에서 방문한 노드들의 카운트를 올려준다
 					result++;
