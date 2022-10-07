@@ -2,7 +2,7 @@ package 안려환;
 
 import java.util.Scanner;
 
-public class P066_BJ17070_파이프옮기기1_dp {
+public class P066_BJ17070_파이프옮기기1_bfs시도 {
 		private static int map[][];
 		private static int dp[][][]; // y,x,dir
 		private static int ans;
