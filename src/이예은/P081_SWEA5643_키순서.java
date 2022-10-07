@@ -20,7 +20,7 @@ public class P081_SWEA5643_키순서 {
 		Queue<Integer> queue = new ArrayDeque<>();
 		queue.add(start);
 		visited[start] = true;
-		int result = 1;
+		int result = 1; 
 		
 		while(!queue.isEmpty()) {
 			int node = queue.poll();
