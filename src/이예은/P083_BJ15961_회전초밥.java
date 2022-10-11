@@ -22,7 +22,7 @@ public class P083_BJ15961_회전초밥 {
             sushi[i] = Integer.parseInt(br.readLine());
         }
         
-        int [] check = new int[d+1]; // 초밥을 먹었는지
+        int [] check = new int[d+1]; // 초밥을 먹었는지 확인
         int count=0;
         
         for(int i=0;i<k;i++) {
